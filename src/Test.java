@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("Hello git1");
 		System.out.println("Hello Lim");
 		test();
+		
 	}
 	
 	public static void test(){
